@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 print('hello') 1 2 3 5
+=======
+<<<<<<< Updated upstream
+print('hello')
+=======
+print('hello') 1 2 3 5 1234 hi
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
